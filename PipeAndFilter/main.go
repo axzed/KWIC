@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"kiwc_xwc/PipeAndFilter/pipe"
+	"kwic/PipeAndFilter/pipe"
 )
 
 func main() {

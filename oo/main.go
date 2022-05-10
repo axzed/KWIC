@@ -1,10 +1,10 @@
 package main
 
 import (
-	"kiwc_xwc/oo/input"
-	"kiwc_xwc/oo/output"
-	"kiwc_xwc/oo/shift"
-	"kiwc_xwc/oo/sortAlph"
+	"kwic/oo/input"
+	"kwic/oo/output"
+	"kwic/oo/shift"
+	"kwic/oo/sortAlph"
 )
 
 func main() {

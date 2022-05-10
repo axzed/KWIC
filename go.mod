@@ -1,3 +1,3 @@
-module kiwc_xwc
+module kwic
 
 go 1.18

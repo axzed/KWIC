@@ -1,6 +1,6 @@
 package main
 
-import "kiwc_xwc/ms/kwic"
+import "kwic/ms/kwic"
 
 func main() {
 	fileName := "D:\\kwic_xwc\\ms\\chooseAndSort.txt"
