@@ -8,7 +8,4 @@ func main() {
 	kwic.Shift()
 	kwic.Sort()
 	kwic.Output("result.txt")
-
-	// kwic.Test()
-	// kwic.TestStrings()
 }
